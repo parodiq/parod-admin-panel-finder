@@ -9,9 +9,9 @@ system "color 0a";
 print"\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\t>            Admin CP Finder                        >\n";
-print "\t>         Created By Bedo Mado                      >\n";
+print "\t>         Created By Parod-IQ                      >\n";
 print "\t>       Visit my page on FACEBOOK                   >\n";
-print "\t>     https://www.facebook.com/groups/arab.hacer    >\n";
+print "\t>     https://www.facebook.com/groups/Parod-IQ    >\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\n";
 
